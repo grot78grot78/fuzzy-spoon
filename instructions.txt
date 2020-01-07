@@ -10,7 +10,4 @@ Aenean vel diam tincidunt, tincidunt dui ut, fermentum sapien. Maecenas vestibul
 
 Fusce eget elit vel est pharetra consequat. Aenean a eros id tortor aliquet condimentum. Curabitur ut nisl aliquam, pellentesque erat ut, tincidunt quam. Morbi sit amet tristique sem. Sed vestibulum tincidunt pulvinar. Sed sit amet tellus ligula. Vestibulum nec nisl eget magna tristique tempus eget ac quam. Sed nunc arcu, tempor feugiat vehicula ac, varius sit amet mi. Aliquam enim massa, rhoncus sit amet elit in, vestibulum imperdiet nisi. Sed pulvinar enim leo, in sodales nisl fermentum ut. Ut sagittis placerat volutpat. Donec in urna sem. Nulla eu venenatis leo, quis cursus ex.
 
-grot78 made changes.
-change made in sample branch
-
-add-inst değişikliği
+change made in vs-branc
